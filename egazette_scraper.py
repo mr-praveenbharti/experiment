@@ -1,4 +1,5 @@
 # egazette_scraper.py
+pip install beautifulsoup4 
 from __future__ import annotations
 import re, csv, logging, requests
 from typing import List, Dict, Tuple, Optional
