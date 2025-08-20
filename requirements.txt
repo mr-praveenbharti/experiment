@@ -1,0 +1,6 @@
+beautifulsoup4>=4.12
+lxml>=5.0
+requests>=2.31
+pandas>=2.2   # if you render tables/exports
+streamlit>=1.32   # if using the UI
+st-aggrid>=0.3.4  # optional, Excel-like table
